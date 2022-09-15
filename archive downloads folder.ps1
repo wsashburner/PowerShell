@@ -10,9 +10,6 @@ Get-ChildItem C:\Users\*\downloads\ -Include *.* -Recurse | ForEach-object  { $_
 
 Clear-RecycleBin -force
 
-[System.Windows.MessageBox]::Show('DOWNLOAD FOLDER HAS BEEN ARCHIVED!')
-
-
 
 
 
