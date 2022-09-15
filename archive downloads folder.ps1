@@ -14,7 +14,7 @@ Clear-RecycleBin -force
 
 
 
-Get-Date
+test
 
 
 
